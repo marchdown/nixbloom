@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Apply NixOS Configuration
+    command: sudo nixos-rebuild switch --upgrade
