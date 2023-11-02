@@ -1,0 +1,5 @@
+{
+  "name": "NixOS Codespace",
+  "dockerFile": "Dockerfile",
+  "extensions": ["ms-vscode.vscode-node-remote"]
+}
